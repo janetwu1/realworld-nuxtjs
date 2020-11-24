@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Volumes/学习与工作/lagou_learn/fed-e-task-03/fed-e-task-03-03/code/09-nuxtjs综合/realworld-nuxtjs/pages/layout",
+    "children": [
+      {
+        "path": "/",
+        "name": "home",
+        "component": "/Volumes/学习与工作/lagou_learn/fed-e-task-03/fed-e-task-03-03/code/09-nuxtjs综合/realworld-nuxtjs/pages/home",
+        "_name": "_c9814680"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Volumes/学习与工作/lagou_learn/fed-e-task-03/fed-e-task-03-03/code/09-nuxtjs综合/realworld-nuxtjs/pages/login",
+        "_name": "_6636f8b0"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Volumes/学习与工作/lagou_learn/fed-e-task-03/fed-e-task-03-03/code/09-nuxtjs综合/realworld-nuxtjs/pages/login",
+        "_name": "_6636f8b0"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Volumes/学习与工作/lagou_learn/fed-e-task-03/fed-e-task-03-03/code/09-nuxtjs综合/realworld-nuxtjs/pages/profile",
+        "_name": "_020debb0"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Volumes/学习与工作/lagou_learn/fed-e-task-03/fed-e-task-03-03/code/09-nuxtjs综合/realworld-nuxtjs/pages/settings",
+        "_name": "_71684b84"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Volumes/学习与工作/lagou_learn/fed-e-task-03/fed-e-task-03-03/code/09-nuxtjs综合/realworld-nuxtjs/pages/editor",
+        "_name": "_79bfd5e4"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Volumes/学习与工作/lagou_learn/fed-e-task-03/fed-e-task-03-03/code/09-nuxtjs综合/realworld-nuxtjs/pages/article",
+        "_name": "_34796516"
+      }
+    ],
+    "_name": "_6222226a"
+  }
+]
